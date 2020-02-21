@@ -1,7 +1,6 @@
 import React from 'react';
 import {Square} from "../utilities/Square";
 
-
 export class Board extends React.Component {
     renderSquare(i) {
         return (
